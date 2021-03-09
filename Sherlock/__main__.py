@@ -11,7 +11,7 @@ from Sherlock.sql.chat_sql import add_chat_to_db
 
 start_text = """
 Hey [{}](tg://user?id={}),
-I'm [Alexa🎶](https://telegra.ph/file/ea275cf7748515ccca6af.jpg)
+I'm [🎵songrobot🎶](https://telegra.ph/file/ea275cf7748515ccca6af.jpg)
 Just send me the song name you want to download.
 Eg: ```/song unna nanachi nanachi ```
 """
